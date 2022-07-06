@@ -4,7 +4,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aplicação">Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-app">App</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -32,6 +32,6 @@ Aplicação de cadastro de nome e idade que gera um id único para cada usuário
   <img alt="tabela" src="src\img\form.PNG" width="100%">
 </p>
 
-## Aplicação
+## App
 
 <a href="https://next-js-crud-c8jrcf4u9-yago-carvalho.vercel.app/">CRUD</a>
