@@ -30,3 +30,7 @@ Aplicação de cadastro de nome e idade que gera um id único para cada usuário
 <p align="center">
   <img alt="tabela" src="src\img\form.PNG" width="100%">
 </p>
+
+## Experimente você mesmo:
+
+<a href="https://next-js-crud-c8jrcf4u9-yago-carvalho.vercel.app/">CRUD</a>
